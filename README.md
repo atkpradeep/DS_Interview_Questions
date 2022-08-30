@@ -1,0 +1,2 @@
+DSA Interview Questions: 
+As demand for high-quality developers expanded, coding interviews became more difficult. The questions around data structures and algorithms were an enemy for developers everywhere. There seems to be a problem of too much, when looking for resources on the Internet around them, and most of the time the resources are not structured. This repo try to solve problem, by providing the possible questions that can prepare you for your next coding interview. All problem sloved using C# here.
